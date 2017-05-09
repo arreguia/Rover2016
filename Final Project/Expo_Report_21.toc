@@ -1,0 +1,121 @@
+\contentsline {section}{\numberline {I}Introduction}{1}{section.1}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {I-A}}Our Client}{1}{subsection.1.1}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {I-B}}Project Overview and Importance}{1}{subsection.1.2}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {I-C}}Project Purposes and Goals}{1}{subsection.1.3}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {I-D}}Competition Details}{1}{subsection.1.4}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {I-E}}Team Members and Roles}{1}{subsection.1.5}
+\contentsline {section}{\numberline {II}Requirements Document}{1}{section.2}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {II-A}}Introduction}{1}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {II-A}1}Purpose}{1}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {II-A}2}Project Scope}{2}{subsubsection.2.1.2}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {II-A}3}Project Overview}{2}{subsubsection.2.1.3}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {II-A}4}Competition Overview}{2}{subsubsection.2.1.4}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {II-B}}Description}{3}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {II-B}1}Product perspective}{5}{figure.caption.4}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {II-B}2}Product functions}{5}{subsubsection.2.2.2}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {II-B}3}Constraints}{5}{subsubsection.2.2.3}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {II-B}4}Assumptions and dependencies}{5}{subsubsection.2.2.4}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {II-B}5}Functional Requirements}{5}{subsubsection.2.2.5}
+\contentsline {section}{\numberline {III}Project Changes}{6}{section.3}
+\contentsline {section}{\numberline {IV}Design Document}{6}{section.4}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IV-A}}Introduction}{6}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {IV-A}1}Challenge and Project Overview}{6}{subsubsection.4.1.1}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {IV-A}2}Date of Issue and Status}{6}{subsubsection.4.1.2}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IV-B}}Scope of document}{7}{subsection.4.2}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IV-C}}Design Stakeholders}{7}{subsection.4.3}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {IV-C}1}The Oregon State Robotics Club}{7}{subsubsection.4.3.1}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {IV-C}2}The Rover Team}{7}{subsubsection.4.3.2}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {IV-C}3}Oregon State University}{7}{subsubsection.4.3.3}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IV-D}}Design Viewpoints}{7}{subsection.4.4}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {IV-D}1}Composition Viewpoint}{7}{subsubsection.4.4.1}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {IV-D}2}Interaction Viewpoint}{8}{subsubsection.4.4.2}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {IV-D}3}State Dynamics Viewpoint}{8}{subsubsection.4.4.3}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {IV-D}4}Resource Viewpoint}{9}{subsubsection.4.4.4}
+\contentsline {section}{\numberline {V}Technology Review}{9}{section.5}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {V-A}}Operating system}{9}{subsection.5.1}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {V-A}1}Robot Operating System}{9}{subsubsection.5.1.1}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {V-A}2}VxWorks}{9}{subsubsection.5.1.2}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {V-A}3}Robotic Library}{10}{subsubsection.5.1.3}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {V-A}4}Conclusion}{10}{subsubsection.5.1.4}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {V-B}}Depth Sensors and Cameras}{10}{subsection.5.2}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {V-B}1}Stereo Vision}{10}{subsubsection.5.2.1}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {V-B}2}Lidar}{10}{subsubsection.5.2.2}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {V-B}3}Infrared Depth Sensing with Camera}{11}{subsubsection.5.2.3}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {V-B}4}Conclusion}{11}{subsubsection.5.2.4}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {V-C}}Mapping and Navigation Strategies}{11}{subsection.5.3}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {V-C}1}Simultaneous Mapping and Localization}{11}{subsubsection.5.3.1}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {V-C}2}Dead Reckoning}{11}{subsubsection.5.3.2}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {V-C}3}Pilotage}{11}{subsubsection.5.3.3}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {V-C}4}Conclusion}{12}{subsubsection.5.3.4}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {V-D}}Base Station Beacon}{12}{subsection.5.4}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {V-D}1}Checkerboard Image}{12}{subsubsection.5.4.1}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {V-D}2}Radio Localization}{12}{subsubsection.5.4.2}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {V-D}3}Infrared Beacon}{12}{subsubsection.5.4.3}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {V-D}4}Conclusion}{12}{subsubsection.5.4.4}
+\contentsline {section}{\numberline {VI}Blog Posts}{12}{section.6}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-A}}Welcome to my blog!}{12}{subsection.6.1}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-B}}General updates after TA meeting}{12}{subsection.6.2}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-C}}Weekly update}{13}{subsection.6.3}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-D}}Additional task and update}{13}{subsection.6.4}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-E}}Weekly Update}{13}{subsection.6.5}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-F}}Weekly Update}{14}{subsection.6.6}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-G}}Weekly Update}{14}{subsection.6.7}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-H}}Weekly Update}{14}{subsection.6.8}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-I}}Week 1 Update}{15}{subsection.6.9}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-J}}Additional Week 1 Note}{15}{subsection.6.10}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-K}}Week 2 Update}{15}{subsection.6.11}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-L}}Week 3 Update}{15}{subsection.6.12}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-M}}Week 4 Update}{16}{subsection.6.13}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-N}}Week 5 Update}{16}{subsection.6.14}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-O}}Week 6 and 7 Updates}{16}{subsection.6.15}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-P}}Week 8 Update}{16}{subsection.6.16}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-Q}}Week 9 Update}{17}{subsection.6.17}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-R}}Week 10 and 11}{17}{subsection.6.18}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-S}}Spring Break and Week 1}{17}{subsection.6.19}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-T}}Week 2}{17}{subsection.6.20}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-U}}Week 3 Update}{17}{subsection.6.21}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-V}}Recent Updates}{18}{subsection.6.22}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-W}}Week 6 Update}{18}{subsection.6.23}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-X}}Week 7 Update}{18}{subsection.6.24}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-Y}}Week 8 Update}{18}{subsection.6.25}
+\contentsline {section}{\numberline {VII}Poster}{18}{section.7}
+\contentsline {section}{\numberline {VIII}Project documentation}{19}{section.8}
+\contentsline {section}{\numberline {IX}Project Structure and Development Environment}{19}{section.9}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IX-A}}The Robot Operating System }{19}{subsection.9.1}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IX-B}}The ROS 2D Navigation Stack}{19}{subsection.9.2}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IX-C}}The Octomap Package}{19}{subsection.9.3}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IX-D}}Code Organization}{19}{subsection.9.4}
+\contentsline {section}{\numberline {X}Level One Theory of Operation}{20}{section.10}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {X-A}}2D Navigation Implementation}{20}{subsection.10.1}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {X-B}}Launch Files and Startup}{20}{subsection.10.2}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {X-C}}Rover Configuration}{20}{subsection.10.3}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {X-D}}Running the Navigation Stack}{21}{subsection.10.4}
+\contentsline {section}{\numberline {XI}Level Two Theory of Operation}{23}{section.11}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {XI-A}}Octomap}{23}{subsection.11.1}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {XI-B}}Generating the Seed Map}{23}{subsection.11.2}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {XI-C}}Special Requirements to Run Software}{24}{subsection.11.3}
+\contentsline {section}{\numberline {XII}Learning New Technology}{24}{section.12}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {XII-A}}Useful Websites}{24}{subsection.12.1}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {XII-B}}Useful Textbooks}{24}{subsection.12.2}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {XII-C}}Helpful Staff and Students}{24}{subsection.12.3}
+\contentsline {section}{\numberline {XIII}What You Learned}{24}{section.13}
+\contentsline {section}{\numberline {XIV}Appendix 1}{25}{section.14}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {XIV-A}}Transform Broadcaster}{25}{subsection.14.1}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {XIV-B}}Odom Publisher and Transform Broadcaster}{26}{subsection.14.2}
+\contentsline {section}{\numberline {XV}Appendix 2}{27}{section.15}
+\contentsline {section}{\numberline {XVI}OLD SECTIONS: What Is Left}{27}{section.16}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {XVI-A}}Fine Tune Odometry}{27}{subsection.16.1}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {XVI-B}}Create the Bridge Between \texttt {cmd\_vel} and the PID}{27}{subsection.16.2}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {XVI-C}}Transition Between Team Nodes}{27}{subsection.16.3}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {XVI-D}}Returning to the Home Base}{27}{subsection.16.4}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {XVI-E}}Home Beacon Options}{27}{subsection.16.5}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {XVI-F}}Computation Cost and Power Usage}{28}{subsection.16.6}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {XVI-G}}Level Two}{28}{subsection.16.7}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {XVI-H}}Testing}{28}{subsection.16.8}
+\contentsline {section}{\numberline {XVII}Encountered Problems and Solutions}{28}{section.17}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {XVII-A}}Working with ROS}{28}{subsection.17.1}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {XVII-B}}Working with the Octomap Packages}{28}{subsection.17.2}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {XVII-C}}Working with Another Senior Design Team}{28}{subsection.17.3}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {XVII-D}}Working with the Rover Subteams}{29}{subsection.17.4}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {XVII-E}}Software and Hardware Issues}{29}{subsection.17.5}
+\contentsline {section}{\numberline {XVIII}Conclusion}{29}{section.18}
